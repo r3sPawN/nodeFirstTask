@@ -1,0 +1,3 @@
+
+Type the city you want to see the temperature of in config.json, you can also add your email,
+because I use "dummy" smtp it will only print a preview URL that you can click on, it will not actually send the email.
